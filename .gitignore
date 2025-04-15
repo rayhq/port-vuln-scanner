@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+scan_report_*.csv
+scan_report_*.json
